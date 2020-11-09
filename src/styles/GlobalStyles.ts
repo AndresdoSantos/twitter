@@ -11,7 +11,7 @@ export default createGlobalStyle`
 
   html, body, #root {
     max-height: 100vh;
-    max-width: 100vw;
+    max-width: 100vw; 
 
     height: 100%;
     width: 100%;
@@ -39,6 +39,5 @@ export default createGlobalStyle`
     --twitter: #33a1f2;
     --twitter-dark-hover: #011017;
     --twitter-light-hover: #2c8ed6; 
-
   }
 `; 
