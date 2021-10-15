@@ -1,18 +1,16 @@
-## Twitter - UI Clone
-
-Project developed in [masterclass]('https://youtu.be/K-8z_4xvT3o') da Rocketseat 🚀🚀.
+### Twitter - UI Clone
 
 Run this code in your machine
 
-1. Clone o repositório
+1. Clone this repo.
 ```bash 
  $ git clone https://github.com/AndresdoSantos/twitter.git
 ```
-2. Instale as depedências
+2. Install the dependencies.
 ```bash 
  $ npm install ou yarn install
 ```
-3. Rode o projeto.
+3. Run.
 ```bash 
  $ npm run dev ou yarn dev
 ```
