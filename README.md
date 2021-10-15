@@ -1,12 +1,12 @@
-# Twitter - UI Clone
+## Twitter - UI Clone
 
-Projeto desenvolvido em uma [masterclass]('https://youtu.be/K-8z_4xvT3o') da Rocketseat 🚀🚀.
+Project developed in [masterclass]('https://youtu.be/K-8z_4xvT3o') da Rocketseat 🚀🚀.
 
-🤔 **Como rodar na minha máquina?**
+Run this code in your machine
 
 1. Clone o repositório
 ```bash 
- $ git clone https://github.com/AndresdoSantos/twitter
+ $ git clone https://github.com/AndresdoSantos/twitter.git
 ```
 2. Instale as depedências
 ```bash 
@@ -16,5 +16,3 @@ Projeto desenvolvido em uma [masterclass]('https://youtu.be/K-8z_4xvT3o') da Roc
 ```bash 
  $ npm run dev ou yarn dev
 ```
-
-😄 **Valeeeu...**
