@@ -8,9 +8,9 @@ Run this code in your machine
 ```
 2. Install the dependencies.
 ```bash 
- $ npm install ou yarn install
+ $ yarn install
 ```
 3. Run.
 ```bash 
- $ npm run dev ou yarn dev
+ $ yarn dev
 ```
